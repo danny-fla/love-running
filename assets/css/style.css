@@ -187,3 +187,13 @@ hr {
     background: url(../images/ethos-center-image.jpg) no-repeat center center;
     border-radius: 50%;
 }
+
+#times {
+    background-image: url('../images/galway-ireland.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+
+}
